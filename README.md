@@ -6,3 +6,8 @@ and reads the exif data and sums it to give you a barchart or historgram of what
 images were taken.
 
 It was originally developed to aid a deer population survey by counting the shutters of trail cameras.
+
+# Future development
+* Comment code
+* Non-jpg case handling
+* Get rid of globals, case switch and independent hour update functions and pass arrays instead
